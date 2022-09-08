@@ -34,7 +34,7 @@ Directions to Museum
 
    ###  Citys and Location
     
-  This Table discrib tha  important location to visit in the city and spend time.
+  This Table describes tha  important locations to visit in the city and spend time.
 
  | CITY  | PLACE OF VIST | TIME |
  | ---- | ----- | ------ |
