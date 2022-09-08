@@ -32,11 +32,12 @@ Directions to Museum
 
    [Know About Anugula Sagarika](/AboutMe.md)
 
-   ###  Table
+   ###  Citys and Location
     
-    ---
+  This Table discrib tha  important location to visit in the city and spend time.
 
  | CITY  | PLACE OF VIST | TIME |
+ | ---- | ----- | ------ |
  |Hyderabad | charminar | 2 days |
  | Guntur |mirchi yerd | 3 days |
  | Vijayawada | Krishna River| 4 days |
