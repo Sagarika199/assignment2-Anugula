@@ -26,3 +26,8 @@ Directions to Museum
 3. Follow Service Rd and Binz St to La Branch St
    1. Merge onto Service Rd then turn right onto Binz St and turn left onto La Branch St
    2. You can find museum on left.
+
+* Places to visit near museum 
+   * Houston Museum of Natural Science
+   * Holocaust Museum Houston
+   * Miller Outdoor Theatre
