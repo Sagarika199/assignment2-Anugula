@@ -31,3 +31,16 @@ Directions to Museum
    * Miller Outdoor Theatre
 
    [Know About Anugula Sagarika](/AboutMe.md)
+
+   ###  Table
+    
+    ---
+
+ | CITY  | PLACE OF VIST | TIME |
+ |Hyderabad | charminar | 2 days |
+ | Guntur |mirchi yerd | 3 days |
+ | Vijayawada | Krishna River| 4 days |
+ | Cheni|Beach | 2 days |
+  
+
+  ---
