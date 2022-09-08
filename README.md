@@ -47,7 +47,7 @@ Directions to Museum
   ***
 
   ###  Pithy Quotes
-  >Almost anyone can be an author; the business is to collect money and fame from this state of being.-*Erica Jong*
-  >Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it.-*George Orwell*
+  > Almost anyone can be an author; the business is to collect money and fame from this state of being.-*Erica Jong*
+  > Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it.-*George Orwell*
 
   ***
