@@ -41,7 +41,13 @@ Directions to Museum
  |Hyderabad | charminar | 2 days |
  | Guntur |mirchi yerd | 3 days |
  | Vijayawada | Krishna River| 4 days |
- | Cheni|Beach | 2 days |
+ | Chennai|Beach | 2 days |
   
 
-  ---
+  ***
+
+  ###  Pithy Quotes
+  >Almost anyone can be an author; the business is to collect money and fame from this state of being.-*Erica Jong*
+  >Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it.-*George Orwell*
+
+  ***
