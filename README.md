@@ -3,11 +3,9 @@
 ###### Children's Museum of Houston
 Consistently ranked one of the best children’s museums in the country, the Children’s Museum of Houston is designed to provide innovative **child-centered learning through fun educational exhibits**.Here you can run wild at the FlowWorks water exhibit, visit the bustling Kidtropolis metropolis and **learn about economic concepts** or climb the PowerPlay, along with a three-story climbing exhibition. With state-of-the-art technology and displays that you won’t find anywhere else, battle good vs. evil and be the hero at the thrilling CYBERCHASE or explore innovation at the workshop of gadgets and gizmos at Invention Convention.
 
-...
+---
 
 Directions to Museum
-
----
 
 **George Bush Intercontinental Airport (IAH)**
 
